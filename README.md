@@ -140,7 +140,7 @@ student-registration-portal/
 
 The application can be deployed using platforms such as Vercel or Netlify. Add your live deployment URL here after deployment:
 
-**Live Demo:** `ADD_YOUR_DEPLOYED_URL_HERE`
+**Live Demo:** `https://student-registration-portal-olive.vercel.app/`
 
 ## Author
 
